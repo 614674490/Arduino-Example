@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\variants\\micro"
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\arduino_exmple\\build\\sketch\\test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

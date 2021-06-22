@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\cores\\maple"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\variants\\generic_stm32f103c"
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\STM32duino\\SerialDisplay\\build\\sketch\\serial_display.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\variants\\micro"
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\Figure_Lock\\build\\sketch\\FingerBoard.ino.cpp",
+    "Include": "Keyboard.h",
+    "Includepath": "E:\\Arduino\\libraries\\Keyboard\\src"
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\Figure_Lock\\build\\sketch\\FingerBoard.ino.cpp",
+    "Include": "HID.h",
+    "Includepath": "E:\\Arduino\\hardware\\arduino\\avr\\libraries\\HID\\src"
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\Figure_Lock\\build\\sketch\\FingerBoard.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\Figure_Lock\\build\\sketch\\fingerprint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "d:\\Learn\\Arduino\\Figure_Lock\\build\\sketch\\fingerprintWrapper.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino\\libraries\\Keyboard\\src\\Keyboard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino\\hardware\\arduino\\avr\\libraries\\HID\\src\\HID.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

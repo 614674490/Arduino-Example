@@ -1,0 +1,7 @@
+{
+    "port": "COM14",
+    "board": "arduino:avr:micro",
+    "programmer": "USBtinyISP",
+    "output": "./build",
+    "sketch": "FingerBoard\\FingerBoard.ino"
+}

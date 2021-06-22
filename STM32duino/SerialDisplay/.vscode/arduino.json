@@ -1,0 +1,8 @@
+{
+    "port": "COM16",
+    "board": "arduino:avr:genericSTM32F103C",
+    "programmer": "USBtinyISP",
+    "output": "./build",
+    "sketch": "serial\\serial_display\\serial_display.ino",
+    "configuration": "device_variant=STM32F103C8,upload_method=DFUUploadMethod,cpu_speed=speed_72mhz,opt=osstd"
+}

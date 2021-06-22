@@ -1,0 +1,7 @@
+{
+    "port": "COM11",
+    "board": "arduino:avr:micro",
+    "programmer": "USBtinyISP",
+    "output": "./build",
+    "sketch": "test\\test.ino"
+}
